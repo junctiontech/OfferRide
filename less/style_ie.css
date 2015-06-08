@@ -1,0 +1,11 @@
+html{
+	background:url(http://dev.eulogik.com/1picstop_dev/img/img_template/12.jpg) !important;
+	background-size:cover;
+}
+
+.ie_drag_drop{
+	display:block !important;
+}
+.modal_new{
+	color:white !important;
+}
