@@ -1,1 +1,1 @@
-var base_url="http://"+window.location.hostname+':'+location.port+"/offer_ride/";function showRoseIndia(paraId){var element=document.getElementById(paraId);element.scrollIntoView(true);}
+var base_url="http://"+window.location.hostname+':'+location.port+"/offerride/";function showRoseIndia(paraId){var element=document.getElementById(paraId);element.scrollIntoView(true);}

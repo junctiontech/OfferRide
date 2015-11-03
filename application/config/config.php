@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= '/OfferRide/';
+$config['base_url']	= '/offerride/';
 
 /*
 |--------------------------------------------------------------------------
