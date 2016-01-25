@@ -25,6 +25,7 @@
     <link rel="stylesheet" href="<?=base_url();?>css/styles.css">
     <link rel="stylesheet" href="<?=base_url();?>css/mystyles.css">
 	 <link rel="stylesheet" href="<?=base_url();?>css/datepicker.css">
+	 <link rel="shortcut icon" href="<?=base_url();?>/img/junctionerplogo.png">
     <script src="<?=base_url();?>js/modernizr.js"></script>
 
 <script src="<?=base_url()?>/js/jquery-1.7.2.js"></script>
