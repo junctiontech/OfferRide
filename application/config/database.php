@@ -49,11 +49,11 @@ if($_SERVER['HTTP_HOST']=="localhost"){
 	$username="root";
 }
 
-if($_SERVER['HTTP_HOST']=="offerride.junctiontech.in"){
+if($_SERVER['HTTP_HOST']=="OfferRide.junctiontech.in"){
 	$password="";
 	$username="";
 }
-if($_SERVER['HTTP_HOST']=="www.offerride.junctiontech.in"){
+if($_SERVER['HTTP_HOST']=="www.OfferRide.junctiontech.in"){
 	$password="";
 	$username="";
 }
