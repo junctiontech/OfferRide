@@ -15,15 +15,23 @@
 |
 */
 if($_SERVER['HTTP_HOST']=="localhost"){
-	$port=$_SERVER['SERVER_PORT'];
-$config['base_url']	= "http://localhost/OfferRide/";
-}elseif($_SERVER['HTTP_HOST']=="www.OfferRide.junctiontech.in"){
-$config['base_url']	= 'http://OfferRide.junctiontech.in/';	
-}elseif($_SERVER['HTTP_HOST']=="OfferRide.junctiontech.in"){
 	
-$config['base_url']	= 'http://OfferRide.junctiontech.in/';	
+	$port=$_SERVER['SERVER_PORT'];
+	
+	$config['base_url']	= "http://localhost/OfferRide/";
+
+}elseif($_SERVER['HTTP_HOST']=="www.ride.junctiontech.in"){
+	
+	$config['base_url']	= 'https://ride.junctiontech.in';
+	
+}elseif($_SERVER['HTTP_HOST']=="ride.junctiontech.in"){
+	
+	$config['base_url']	= 'https://ride.junctiontech.in';	
+
 }elseif($_SERVER['HTTP_HOST']=="192.168.1.151"){
+	
 	$config['base_url']	= 'http://192.168.1.151/OfferRide/';
+
 }
 
 /*

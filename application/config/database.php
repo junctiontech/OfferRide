@@ -49,17 +49,17 @@ if($_SERVER['HTTP_HOST']=="localhost"){
 	$username="root";
 }
 
-if($_SERVER['HTTP_HOST']=="OfferRide.junctiontech.in"){
+if($_SERVER['HTTP_HOST']=="ride.junctiontech.in"){
 	$password="";
 	$username="";
 }
-if($_SERVER['HTTP_HOST']=="www.OfferRide.junctiontech.in"){
+if($_SERVER['HTTP_HOST']=="www.ride.junctiontech.in"){
 	$password="";
 	$username="";
 }
 if($_SERVER['HTTP_HOST']=="192.168.1.151"){
-	$password="";
-	$username="";
+	$password="root";
+	$username="initial1$";
 }
 $active_group = 'default';
 $active_record = TRUE;
