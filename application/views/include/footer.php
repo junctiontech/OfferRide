@@ -24,7 +24,7 @@
 
                    
                     <div class="col-md-3">
-                       <p class="pull-right">Copyright@2015.Junction Tech</p>
+                       <p class="pull-right">Copyright@2017.Junction Tech Other Product- <a target="_blank" href="https://www.zeroerp.com">School Management Software</p>
                     </div>
 
                 </div>
